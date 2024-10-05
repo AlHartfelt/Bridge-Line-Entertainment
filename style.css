@@ -24,6 +24,13 @@ a {
     text-align: center;
 }
 
+.node-text {
+  display: inline-block;
+  width: 10em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
 /* Image Style */
 
 img {
