@@ -32,8 +32,8 @@ header {
 }
 
 body {
-    background-color: white;
-    background-image: linear-gradient(white, silver);
+    background-color: black;
+    background-image: linear-gradient(black, #1c1c1c);
     padding: 2rems;
 }
 
