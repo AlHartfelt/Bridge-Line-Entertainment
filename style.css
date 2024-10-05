@@ -8,6 +8,14 @@ H1 {
     text-align: center;
     }
 
+h2 {
+    font-family: 'San Francisco', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: #FFF;
+    text-align: center;
+}
+
 p {
     font-family: 'San Fransisco', sans-serif;
     font-weight: 500;
