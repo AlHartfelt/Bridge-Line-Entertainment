@@ -18,8 +18,13 @@ p {
     padding: 2rem;
     text-align: center;
     }
+/* Image Style */
 
+img {
+    border: 2px solid #000;
+}
 /* Backround Style */
+
 div {
   background-image
 }
