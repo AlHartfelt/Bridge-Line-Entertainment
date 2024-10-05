@@ -3,7 +3,7 @@
 h1 {
     font-family: 'Merriweather', serif;
   font-weight: 100;
-  color: #000000;
+  color: white;
   text-align: center;
     }
 
@@ -11,7 +11,7 @@ p {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
     font-size: 24px;
-    color: #000;
+    color: white;
     text-align: center;
     }
 
