@@ -22,9 +22,9 @@ p {
 
 img {
     border: 2px solid #000;
-    border-radius: 25px;    
+    border-radius: 0px;    
     padding: 20px;
-    ascpect-ratio: 16/9
+    ascpect-ratio: 16/9;
 }
 /* Backround Style */
 
