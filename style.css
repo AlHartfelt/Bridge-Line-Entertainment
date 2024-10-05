@@ -12,6 +12,7 @@ h1 {
 p {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
+    font-size: 12px
     color: #000000;
     margin-top: 2rem;
     padding: 2rem;
@@ -20,8 +21,5 @@ p {
 
 /* Backround Style */
 div {
-  background: #bababa;
-  background: linear-gradient(#bababa, #ffffff);
-  border-radius: 6px;
-  height: 120px;
+  background-image: url("alert.png");
 }
