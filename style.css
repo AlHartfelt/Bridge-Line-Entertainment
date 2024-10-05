@@ -55,38 +55,37 @@ body {
     padding: 2rems;
 }
 
-.sidenav {
-  height: 100%;
-  width: 75px;
-  position: fixed;
-  y-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #5d3d6b;
-  background-image: linear-gradient(#b300ff, #5d3d6b, silver);
-  overflow-x: hidden;
-  padding-top: 20px;
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.sidenav a {
-  padding: 6px 8px 6px 16px;
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
+  font-size: 17px;
 }
 
-.sidenav a:hover {
-  color: #FFFFFF;
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-.main {
-  margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
-  padding: 0px 10px;
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
 }
-
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-}
+</style>
+</head>
