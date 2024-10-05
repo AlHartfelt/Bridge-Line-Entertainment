@@ -34,4 +34,5 @@ header {
 body {
     background-color: white;
     background-image: linear-gradient(white, silver);
+    padding: 2rems;
 }
