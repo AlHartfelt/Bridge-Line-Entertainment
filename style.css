@@ -17,3 +17,10 @@ p {
     padding: 2rem;
     text-align: center;
     }
+
+/* Backround Style */
+#grad1 {
+  height: 200px;
+  background-color: silver;
+  background-image: linear-gradient(white, silver);
+}
