@@ -19,8 +19,9 @@ p {
     }
 
 /* Backround Style */
-body {
-  height: 200px;
-  background-color: silver;
-  background-image: linear-gradient(white, silver);
-    }
+div {
+  background: #bababa;
+  background: linear-gradient(#bababa, #ffffff);
+  border-radius: 6px;
+  height: 120px;
+}
