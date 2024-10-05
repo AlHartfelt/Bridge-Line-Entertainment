@@ -19,8 +19,8 @@ p {
     }
 
 /* Backround Style */
-#grad1 {
+body {
   height: 200px;
   background-color: silver;
   background-image: linear-gradient(white, silver);
-}
+    }
