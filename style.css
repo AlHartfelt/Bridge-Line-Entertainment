@@ -38,6 +38,7 @@ a {
   overflow: hidden;
   white-space: normal;
   text-overflow: ellipsis;
+  "-webkit-line-clamp: 3;"
 }
 
 
