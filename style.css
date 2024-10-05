@@ -43,6 +43,7 @@ img {
 
 header {
   background-color: #FFFFFF;
+    color: white;
     font-size: 24px;
     height: 20px;
 }
@@ -62,7 +63,7 @@ body {
   top: 0;
   left: 0;
   background-color: #5d3d6b;
-  background-image: linear-gradient(#5d3d6b, silver);
+  background-image: linear-gradient(#b300ff, #5d3d6b, silver);
   overflow-x: hidden;
   padding-top: 20px;
 }
