@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Web-Safe Font Example</title>
-  <style>
-    body {
-      font-family: "Arial", sans-serif;
-    }
-  </style>
-</head>
-<body>
-  <h1>This is Arial font!</h1>
-</body>
-</html>
+/* Text Style */
 
+h1 {
+    font-family: 'Merriweather', serif;
+  font-weight: 100;
+  color: #000000;
+  margin-top: 2rem;
+  padding: 2rem;
+  text-align: center;
+}
