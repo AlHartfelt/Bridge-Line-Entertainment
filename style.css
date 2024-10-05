@@ -36,9 +36,10 @@ a {
   display: inline-block;
   width: 10em;
   overflow: hidden;
-  white-space: nowrap;
+  white-space: normal;
   text-overflow: ellipsis;
 }
+
 /* Image Style */
 
 img {
@@ -95,5 +96,6 @@ body {
   background-color: #04AA6D;
   color: white;
 }
+
 </style>
 </head>
