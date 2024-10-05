@@ -24,8 +24,7 @@ img {
     border: 2px solid #000;
     border-radius: 25px;    
     padding: 20px;
-    width: 50%;
-    height: 100%;
+    ascpect-ratio: 16/9
 }
 /* Backround Style */
 
