@@ -57,7 +57,7 @@ body {
 
 .sidenav {
   height: 100%;
-  width: 160px;
+  width: 75px;
   position: fixed;
   y-index: 1;
   top: 0;
@@ -77,7 +77,7 @@ body {
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #FFFFFF;
 }
 
 .main {
