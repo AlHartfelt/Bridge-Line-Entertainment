@@ -5,7 +5,6 @@ H1 {
     font-weight: 500;
     font-size: 32px;
     color: #FFFFFF;
-    text-align: center;
     background-color: #130f36;
     background-repeat: no-repeat;
     padding: 15px;
@@ -16,7 +15,6 @@ h2 {
     font-weight: 500;
     font-size: 32px;
     color: #FFF;
-    text-align: center;
 }
 
 p {
@@ -24,7 +22,6 @@ p {
     font-weight: 500;
     font-size: 24px;
     color: #FFFFFF;
-    text-align: center;
     }
 
 a {
@@ -32,7 +29,6 @@ a {
     font-weight: 500;
     font-size: 12px;
     color: #712691;
-    text-align: center;
 }
 
 texts {
