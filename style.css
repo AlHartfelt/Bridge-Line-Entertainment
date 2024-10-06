@@ -118,10 +118,12 @@ div {
 /* two diffrent collumns */
 .rightcollumn {
     float: right;
+    margin: 50%;
 }
 
 .leftcollumn {
     float: left;
+    margin: 50%;
 }
 
 /* Background colour */
@@ -136,10 +138,10 @@ div {
     background-color: #1b173d;
     padding: 20px;
     margin-top: 20px;
-    width: 50%
+    width: 50%;
 }
 /* Clear floats after the columns */
-.row::after {
+.row:after {
   content: "";
   display: table;
   clear: both;
@@ -149,7 +151,7 @@ div {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #130f36;
   margin-top: 20px;
 
     /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
