@@ -99,11 +99,23 @@ body {
 </style>
 </head>
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
 footer {
     background-color: black;
-    padding: 50 120px;
+    padding: 50px 120px;
     text-align: center;
     font: 15px;
     color: white;
     float: center;
 }
+
+footer a:hover {
+    background-color: #ddd;
+    color: #8f8f8f;
+}
+
+</style>
+</head>
