@@ -118,12 +118,12 @@ div {
 /* two diffrent collumns */
 .rightcollumn {
     float: right;
-    width: 25%
+    width: 25%;
 }
 
 .leftcollumn {
     float: left;
-    width: 25%
+    width: 25%;
 }
 
 /* Background colour */
