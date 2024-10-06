@@ -101,5 +101,9 @@ body {
 
 footer {
     background-color: black;
-    padding: 120px;
+    padding: 50 120px;
+    text-align: center;
+    font: 15px;
+    color: white;
+    float: center;
 }
