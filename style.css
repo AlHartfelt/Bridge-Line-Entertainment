@@ -50,10 +50,10 @@ img {
 /* Backround Style */
 
 header {
-  background-color: #FFFFFF;
+  background-color: #000000;
     color: white;
     font-size: 24px;
-    height: 20px;
+    height: 40px;
 }
 
 body {
