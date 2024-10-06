@@ -5,9 +5,6 @@ H1 {
     font-weight: 500;
     font-size: 32px;
     color: #FFFFFF;
-    background-color: #130f36;
-    background-repeat: no-repeat;
-    padding: 15px;
     }
 
 h2 {
@@ -29,12 +26,6 @@ a {
     font-weight: 500;
     font-size: 12px;
     color: #712691;
-}
-
-texts {
-  background-color: black;
-  background-repeat: no-repeat, repeat;
-  padding: 15px;
 }
 
 /* Image Style */
@@ -118,3 +109,11 @@ footer a:hover {
 
 </style>
 </head>
+
+
+<style>
+div {
+    background-color: #130f36;
+    background-repeat: no-repeat;
+    padding: 15px;
+}
