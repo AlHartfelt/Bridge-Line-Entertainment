@@ -129,7 +129,7 @@ div {
 /* Background colour */
 .fakeimg {
     background-color: #1b183d;
-    width: 50%;
+    width: 25%;
     padding: 20px;
 }
 
@@ -138,6 +138,7 @@ div {
     background-color: #1b173d;
     padding: 20px;
     margin-top: 20px;
+    width: 75%
 }
 /* Clear floats after the columns */
 .row::after {
