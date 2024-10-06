@@ -138,7 +138,7 @@ div {
     background-color: #1b173d;
     padding: 20px;
     margin-top: 20px;
-    width: 75%
+    width: 50%
 }
 /* Clear floats after the columns */
 .row::after {
