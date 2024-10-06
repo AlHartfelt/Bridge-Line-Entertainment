@@ -81,6 +81,7 @@ body {
 
 .topnav a.active {
   background-color: #04AA6D;
+  text-decoration: dotted;
   color: white;
 }
 
