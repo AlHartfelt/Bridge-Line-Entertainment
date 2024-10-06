@@ -81,10 +81,9 @@ body {
   float: center;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 22px;
+  padding: 14px 50px;
   text-decoration: none;
   font-size: 15px;
-  word-spacing: 30px;
 }
 
 .topnav a:hover {
