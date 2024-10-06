@@ -6,6 +6,9 @@ H1 {
     font-size: 32px;
     color: #FFFFFF;
     text-align: center;
+    background-color: black;
+    background-repeat: no-repeat;
+    padding: 15px;
     }
 
 h2 {
