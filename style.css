@@ -6,7 +6,7 @@ H1 {
     font-size: 32px;
     color: #FFFFFF;
     text-align: center;
-    background-color: black;
+    background-color: #130f36;
     background-repeat: no-repeat;
     padding: 15px;
     }
@@ -60,8 +60,7 @@ header {
 }
 
 body {
-    background-color: black;
-    background-image: linear-gradient(black, #1c1c1c);
+    background-color: #08061c;
     background-repeat: no-repeat;
     padding: 2rems;
 }
