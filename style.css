@@ -38,7 +38,6 @@ a {
   overflow: hidden;
   white-space: normal;
   text-overflow: ellipsis;
-  "-webkit-line-clamp: 3;"
 }
 
 
@@ -82,9 +81,9 @@ body {
 }
 
 .topnav a {
-  float: center;
+  float: left;
   color: #f2f2f2;
-  text-align: left;
+  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
