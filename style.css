@@ -54,6 +54,7 @@ header {
     color: white;
     font-size: 24px;
     height: 30px;
+    border: 5px solid black;
 }
 
 body {
@@ -110,6 +111,7 @@ footer {
     font: 15px;
     color: white;
     float: center;
+    border: 5px solid black;
 }
 
 footer a:hover {
