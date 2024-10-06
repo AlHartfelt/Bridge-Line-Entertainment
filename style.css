@@ -39,7 +39,7 @@ img {
 /* Backround Style */
 
 header {
-  background-color: black;
+  background-color: #130f36;
     color: white;
     font-size: 24px;
     height: 30px;
@@ -93,13 +93,9 @@ body {
 <style>
 
 footer {
-    background-color: black;
-    padding: 50px 120px;
-    text-align: center;
-    font: 15px;
-    color: white;
-    float: center;
-    border: 5px solid black;
+    background-color: #130f36;
+    background-repeat: no-repeat;
+    padding: 15px;
 }
 
 footer a:hover {
@@ -117,3 +113,4 @@ div {
     background-repeat: no-repeat;
     padding: 15px;
 }
+<style>
