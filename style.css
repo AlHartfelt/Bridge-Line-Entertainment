@@ -69,7 +69,7 @@ body {
 
 body {
   margin: 0;
-  font-family: San Francisco, sans-serif;
+  font-family: 'San Francisco', sans-serif;
 }
 
 .topnav {
@@ -78,7 +78,7 @@ body {
 }
 
 .topnav a {
-  float: left;
+  float: center;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 22px;
