@@ -6,6 +6,10 @@ H1 {
     font-size: 32px;
     color: #FFFFFF;
     text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normaal;
+    display: grid;
     }
 
 h2 {
@@ -31,16 +35,6 @@ a {
     color: #712691;
     text-align: center;
 }
-
-.node-text {
-  display: inline-block;
-  width: 10em;
-  overflow: hidden;
-  white-space: normal;
-  text-overflow: ellipsis;
-}
-
-
 
 /* Image Style */
 
