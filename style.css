@@ -98,3 +98,8 @@ body {
 
 </style>
 </head>
+
+footer {
+    background-color: black;
+    padding: 120px;
+}
