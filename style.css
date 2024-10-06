@@ -115,13 +115,13 @@ div {
 }
 <style>
 
-/* two diffrent collums */
-.rightcollum {
+/* two diffrent collumns */
+.rightcollumn {
     float: right;
     width: 25%
 }
 
-.leftcollum {
+.leftcollumn {
     float: left;
     width: 25%
 }
