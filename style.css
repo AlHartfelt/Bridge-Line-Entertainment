@@ -124,6 +124,7 @@ div {
 .leftcollumn {
     float: left;
     margin: 50%;
+    border: 5px;
 }
 
 /* Background colour */
