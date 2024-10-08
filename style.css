@@ -28,6 +28,14 @@ a {
     color: #712691;
 }
 
+.left{
+    align-text: left;
+}
+
+.right{
+    align-text: right;
+}
+
 /* Image Style */
 
 img {
