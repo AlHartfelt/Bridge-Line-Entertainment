@@ -48,7 +48,7 @@ img {
             width: 300px;
             height: 150px;
             background-color: lightgreen;
-            margin: 0 auto; /* Horizontally centers the box */
+            margin: 25%; /* Horizontally centers the box */
 }
     
 /* Backround Style */
