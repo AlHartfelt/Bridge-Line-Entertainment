@@ -45,9 +45,9 @@ img {
 }
     
 .centered-box {
-            width: 10px;
+            width: 350px;
             background-color: lightgreen;
-            margin: 50%; /* Horizontally centers the box */
+            margin: 30%; /* Horizontally centers the box */
 }
     
 /* Backround Style */
