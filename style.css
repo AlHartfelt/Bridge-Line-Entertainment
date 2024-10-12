@@ -54,12 +54,14 @@ img {
 
 .left-box {
     width: 500px;
+    margin-left: 10%;
     margin-top: 10%;
     margin-bottom: 10%;
 }
 
 .right-box {
     width: 500px;
+    margin-right: 10%;
     margin-top: 10%;
     margin-bottom: 10%;
 }
