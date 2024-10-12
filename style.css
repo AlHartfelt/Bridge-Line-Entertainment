@@ -45,12 +45,18 @@ img {
 }
     
 .centered-box {
-            width: 600px;
-            background-color: ;
-            margin-right: 20%;
-            margin-left: 40%;
+            width: 500px;
+            background-color: #1b173d;
+            margin-right: 50%;
+            margin-left: 50%;
 }
-    
+
+.left-box {
+    width: 500px;
+    background-color: #1b173d;
+    margin-right: 100%;
+}
+
 /* Backround Style */
 
 header {
