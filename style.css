@@ -36,6 +36,23 @@ img {
     width: 50%;
     height: 500px;
 }
+
+.rightimg {
+    border: 2px solid #000;
+    border-radius: 1px;  
+    width: 50%;
+    height: 500px;
+    float: right;
+}
+
+.leftimg {
+    border: 2px solid #000;
+    border-radius: 1px;  
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
 .mainimg {
     border: 5px solid #000;
     border-radius: 3px;
