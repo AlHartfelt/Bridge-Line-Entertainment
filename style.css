@@ -28,14 +28,6 @@ a {
     color: #712691;
 }
 
-left {
-    align-text: left;
-}
-
-right {
-    align-text: right;
-}
-
 /* Image Style */
 
 img {
@@ -48,12 +40,12 @@ img {
     border: 5px solid #000;
     border-radius: 3px;
     width: 100%
-    height: 50%;
+    height: 300px;
     float: center;
 }
     
 .centered-column {
-    width: 100%;
+    width: 50%;
     float: center;
     margin-top: 10px;
     margin-bottom: 10px;
