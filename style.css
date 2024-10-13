@@ -48,21 +48,21 @@ img {
     
 .centered-box {
     width: 500px;
-    float: center;
+    text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
 }
 
 .left-box {
     width: 500px;
-    float: left;
+    text-align: left;
     margin-top: 5%;
     margin-bottom: 5%;
 }
 
 .right-box {
     width: 500px;
-    float: right;
+    text-align: right;
     margin-top: 10%;
     margin-bottom: 10%;
 }
