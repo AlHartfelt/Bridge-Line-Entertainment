@@ -1,4 +1,7 @@
 /* Text Style */
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
 H1 {
     font-family: 'San Francisco', sans-serif;
@@ -95,9 +98,7 @@ header {
   width: 100%;
 }
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+
 
 .topnav {
   overflow: hidden;
