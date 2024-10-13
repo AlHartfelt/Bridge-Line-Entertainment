@@ -45,6 +45,7 @@ a {
     width: 500px;
     height: 500px;
     float: right;
+    text-align: center;
 }
 
 .leftimg {
@@ -53,6 +54,7 @@ a {
     width: 500px;
     height: 250px;
     float: left;
+    text-align: left;
 }
 
 .mainimg {
@@ -101,9 +103,10 @@ header {
 .footer {
   padding: 20px;
   text-align: center;
+  float: center;
   background: #000;
   margin-top: 20px;
-  height: 500px;
+  height: 400px;
   width: 100%;
 }
 
