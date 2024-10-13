@@ -7,7 +7,7 @@ H1 {
     font-family: 'San Francisco', sans-serif;
     font-weight: 500;
     font-size: 32px;
-    color: #FFFFFF;
+    color: #FFF;
     }
 
 h2 {
@@ -21,7 +21,7 @@ p {
     font-family: 'San Fransisco', sans-serif;
     font-weight: 500;
     font-size: 24px;
-    color: #FFFFFF;
+    color: #FFF;
     }
 
 a {
@@ -58,6 +58,7 @@ a {
 .centered-column {
     width: 50%;
     text-align: center;
+    float: center;
     margin-top: 10px;
     margin-bottom: 10px;
 }
