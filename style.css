@@ -77,6 +77,10 @@ a {
 
 /* Backround Style */
 
+body {
+    background-color: #000;
+}
+
 header {
   background-color: #000;
     color: white;
