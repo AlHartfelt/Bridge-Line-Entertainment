@@ -41,30 +41,30 @@ right {
 img {
     border: 2px solid #000;
     border-radius: 1px;  
-    width: 500px;
+    width: 100%;
     margin-top: 5%;
     float: center;
 }
     
 .centered-box {
-    width: 500px;
-    text-align: center;
+    width: 100%;
+    float: center;
     margin-top: 5%;
     margin-bottom: 5%;
 }
 
-.left-box {
-    width: 500px;
-    text-align: left;
-    margin-top: 5%;
-    margin-bottom: 5%;
+.left-column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
 }
 
-.right-box {
-    width: 500px;
-    text-align: right;
-    margin-top: 10%;
-    margin-bottom: 10%;
+.right-column {
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 300px;;
 }
 
 /* Backround Style */
