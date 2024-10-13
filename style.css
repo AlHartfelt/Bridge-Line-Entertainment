@@ -40,12 +40,8 @@ a {
 }
     
 .rightimg {
-    border: 2px solid #000;
-    border-radius: 1px;  
     width: 500px;
     height: 500px;
-    float: right;
-    text-align: center;
 }
 
 .leftimg {
