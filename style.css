@@ -33,6 +33,11 @@ a {
 
 /* Image Style */
 
+.card {
+    background-color: #000;
+    padding: 20px;
+}
+    
 .rightimg {
     border: 2px solid #000;
     border-radius: 1px;  
@@ -116,6 +121,7 @@ header {
 
 .topnav a:hover {
   background-color: #ddd;
+  text-decoration: underlined;
   color: black;
 }
 
