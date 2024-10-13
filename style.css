@@ -41,14 +41,12 @@ a {
 .leftimg {
     border: 2px solid #000;
     border-radius: 1px;  
-    width: 50%;
-    height: 500px;
+    width: 500px;
+    height: 250px;
     float: left;
 }
 
 .mainimg {
-    border: 5px solid #000;
-    border-radius: 3px;
     width: 50%;
     height: 50%;
     float: center;
