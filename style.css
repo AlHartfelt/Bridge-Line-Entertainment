@@ -111,14 +111,14 @@ header {
     height: 60px;
 }
 
-.footer {
+footer {
   padding: 20px;
   text-align: center;
   float: center;
   background: #000;
   margin-top: 20px;
   height: 400px;
-  width: 100%;
+  width: 90%;
 }
 
 
