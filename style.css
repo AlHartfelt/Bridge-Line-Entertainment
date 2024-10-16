@@ -62,6 +62,10 @@ a {
     height: 50%;
     float: center;
 }
+
+.column {
+    column_count: 2;
+}
     
 .centered-column {
     width: 50%;
