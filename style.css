@@ -33,6 +33,10 @@ a {
 
 /* Image Style */
 
+img {
+    width:50%;
+}
+
 .cardimg {
     border-radius: 25px;
     border: 1px;
