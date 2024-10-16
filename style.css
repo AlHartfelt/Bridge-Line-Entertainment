@@ -34,6 +34,8 @@ a {
 /* Image Style */
 
 .card {
+    border-radius: 25px;
+    border: 1px;
     float: center;
     text-align: center;
     background-color: #000;
