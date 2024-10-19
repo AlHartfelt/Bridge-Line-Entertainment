@@ -102,6 +102,7 @@ img {
 
 body {
     background-color: #121212;
+    overflow: hidden;
 }
 
 header {
