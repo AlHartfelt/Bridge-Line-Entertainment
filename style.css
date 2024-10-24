@@ -156,14 +156,50 @@ header {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
+/*top nav*/
+ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+    cursor:pointer;
+    height:50px;
+}
+
+li {
+    padding:15px 15px 15px 0;
+    float:left;
+    width:120px;
+}
+
+li:hover {
+    background:grey;
+}
+
+li: ul {
+    display:none;
+    position:obsolute
+}
+
+li:hover ul {
+    display:block;
+    margin-top:15px;
+}
+
+li:hover li {
+    background: white;
+    float:none;
+}
+
+li:hover li:hover {
+    background:black;
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
-/* Footer */
 
 
     /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
