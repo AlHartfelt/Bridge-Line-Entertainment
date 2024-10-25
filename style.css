@@ -140,7 +140,7 @@ header {
 .topnav a:hover {
   background-color: #ddd;
   text-decoration: underlined;
-  color: black;
+  color: white;
 }
 
 .topnav a.active {
