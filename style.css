@@ -191,7 +191,7 @@ li:hover li {
 }
 
 li:hover li:hover {
-    background:black;
+    background:white;
 }
 
 /* Clear floats after the columns */
