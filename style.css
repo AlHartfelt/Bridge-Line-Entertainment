@@ -158,7 +158,8 @@ header {
 
 /*top nav*/
 ul {
-    background:#000;
+    overflow:hidden;
+    background-color:#000;
     list-style:none;
     padding:1%;
     margin:1%;
