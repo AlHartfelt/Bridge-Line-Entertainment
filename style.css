@@ -168,11 +168,11 @@ ul {
 li {
     padding:15px 15px 15px 0;
     float:left;
-    width:120px;
+    width:200px;
 }
 
 li:hover {
-    background:grey;
+    background:#FFF;
 }
 
 li: ul {
@@ -186,12 +186,13 @@ li:hover ul {
 }
 
 li:hover li {
-    background: white;
+    background:#FFF;
     float:none;
 }
 
 li:hover li:hover {
-    background:white;
+    background:#FFF;
+    padding:10px;
 }
 
 /* Clear floats after the columns */
