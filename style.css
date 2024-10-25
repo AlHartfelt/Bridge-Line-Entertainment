@@ -159,7 +159,7 @@ header {
 /*top nav*/
 ul {
     overflow:hidden;
-    background-color:#000;
+    background-color:#FFF;
     height:50px;
 }
 
@@ -169,7 +169,7 @@ li {
 }
 
 li:hover {
-    background:#000;
+    background:#FFF;
 }
 
 li: ul {
